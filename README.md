@@ -9,7 +9,9 @@
 
  ## Instalación en Linux
  Instalar python y ejecutar install.sh para descargar las dependencias necesarias para la ejecución del programa
-
+ 
+>       sudo apt update
+>       sudo apt install python3
 >       bash install.sh
 
 > ## Funcionalidades
