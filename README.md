@@ -16,6 +16,6 @@
 
 ## Funcionalidades
 <ol>
-<li>1.Permite ver que personas sigues pero no te siguen.</li>
-<li>2.Permite ver personas que te sigues pero tu no sigues.</li>
+<li>Permite ver que personas sigues pero no te siguen.</li>
+<li>Permite ver personas que te sigues pero tu no sigues.</li>
 </ol>
