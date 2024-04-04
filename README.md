@@ -14,8 +14,8 @@
 >       sudo apt install python3
 >       bash install.sh
 
-> ## Funcionalidades
->
-> 1.    Permite ver que personas sigues pero no te siguen.
-> 2.    Permite ver personas que te sigues pero tu no sigues.
->
+## Funcionalidades
+<ol>
+<li>1.Permite ver que personas sigues pero no te siguen.</li>
+<li>2.Permite ver personas que te sigues pero tu no sigues.</li>
+</ol>
