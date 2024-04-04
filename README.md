@@ -1,5 +1,5 @@
 # Isi_Instagram_Checker
- Herramienta con GUI para comprobar diferentes métricas de Instagram
+ Herramienta con GUI para comprobar diferentes métricas de Instagram basado en Instaloader
 
  ## Instalación en Windows
  Instalar python y ejecutar install.bat para descargar las dependencias necesarias para la ejecución del programa
